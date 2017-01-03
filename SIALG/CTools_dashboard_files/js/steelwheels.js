@@ -4,8 +4,14 @@ var steelwheels = {};
  *                      MISC functions && settings                         *
  ***************************************************************************/ 
 $( document ).ready(function() {
-    $('.userName').text(Dashboards.context["user"]);
-
+    var p= -1;
+    $.each(Dashboards.context["roles"], function(i, val) {
+    if (val.indexOf("NOUSUARIO_") >= 0) {
+        p=i;
+        return false;
+    }
+    });    
+   $('.userName').text(Dashboards.context["roles"][p].substring(10, Dashboards.context["roles"][p].length));
 });
 
 
