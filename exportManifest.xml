@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:ExportManifest xmlns:ns2="http://www.pentaho.com/schema/">
+    <ExportManifestInformation exportDate="10-01-2017 10:06:24 BRST" exportBy="c058512" rootFolder="/public/" manifestVersion="2"/>
+    <ExportManifestEntity path="SIALG">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG" createdDate="2017-01-10T08:49:52.170-02:00" isFolder="true" path="SIALG" isHidden="false" locale="pt_BR" title="SIALG"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files">
+        <ExportManifestProperty>
+            <EntityMetaData name="CTools_dashboard_files" createdDate="2017-01-10T08:49:52.816-02:00" isFolder="true" path="SIALG/CTools_dashboard_files" isHidden="false" locale="pt_BR" title="CTools_dashboard_files"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css">
+        <ExportManifestProperty>
+            <EntityMetaData name="css" createdDate="2017-01-10T08:49:53.572-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/css" isHidden="false" locale="pt_BR" title="css"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css/bootstrap-caixa.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="bootstrap-caixa.css" createdDate="2017-01-10T08:57:10.827-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/css/bootstrap-caixa.css" isHidden="true" locale="pt_BR" title="bootstrap-caixa"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css/clippedText.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="clippedText.css" createdDate="2017-01-10T08:49:54.306-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/css/clippedText.css" isHidden="true" locale="pt_BR" title="clippedText"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css/steelWheelsSample.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelWheelsSample.css" createdDate="2017-01-10T08:49:55.077-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/css/steelWheelsSample.css" isHidden="true" locale="pt_BR" title="steelWheelsSample"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css/steelwheels.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelwheels.css" createdDate="2017-01-10T08:49:55.942-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/css/steelwheels.css" isHidden="true" locale="pt_BR" title="steelwheels"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/css/trendArrow.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="trendArrow.css" createdDate="2017-01-10T08:49:56.712-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/css/trendArrow.css" isHidden="true" locale="pt_BR" title="trendArrow"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome-4.7.0" createdDate="2017-01-10T08:49:57.387-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0" isHidden="false" locale="pt_BR" title="font-awesome-4.7.0"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css">
+        <ExportManifestProperty>
+            <EntityMetaData name="css" createdDate="2017-01-10T08:49:57.991-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css" isHidden="false" locale="pt_BR" title="css"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css/font-awesome.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.css" createdDate="2017-01-10T08:49:58.755-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css/font-awesome.css" isHidden="true" locale="pt_BR" title="font-awesome"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css/font-awesome.min.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.min.css" createdDate="2017-01-10T08:49:59.557-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/css/font-awesome.min.css" isHidden="true" locale="pt_BR" title="font-awesome.min"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/fonts">
+        <ExportManifestProperty>
+            <EntityMetaData name="fonts" createdDate="2017-01-10T08:50:00.304-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/fonts" isHidden="false" locale="pt_BR" title="fonts"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="fontawesome-webfont.svg" createdDate="2017-01-10T08:50:01.179-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" isHidden="true" locale="pt_BR" title="fontawesome-webfont"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img">
+        <ExportManifestProperty>
+            <EntityMetaData name="img" createdDate="2017-01-10T08:50:01.861-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/img" isHidden="false" locale="pt_BR" title="img"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/caixa-logo-sm.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="caixa-logo-sm.png" createdDate="2017-01-10T08:50:03.483-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/caixa-logo-sm.png" isHidden="true" locale="pt_BR" title="caixa-logo-sm"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/caixa-logo.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="caixa-logo.png" createdDate="2017-01-10T08:50:02.622-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/caixa-logo.png" isHidden="true" locale="pt_BR" title="caixa-logo"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/calendar-hover.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="calendar-hover.png" createdDate="2017-01-10T08:50:06.106-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/calendar-hover.png" isHidden="true" locale="pt_BR" title="calendar-hover"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/calendar-hover.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="calendar-hover.svg" createdDate="2017-01-10T08:50:06.941-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/calendar-hover.svg" isHidden="true" locale="pt_BR" title="calendar-hover"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/calendar.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="calendar.png" createdDate="2017-01-10T08:50:04.294-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/calendar.png" isHidden="true" locale="pt_BR" title="calendar"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/calendar.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="calendar.svg" createdDate="2017-01-10T08:50:05.198-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/calendar.svg" isHidden="true" locale="pt_BR" title="calendar"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/check.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="check.png" createdDate="2017-01-10T08:50:07.779-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/check.png" isHidden="true" locale="pt_BR" title="check"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/check.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="check.svg" createdDate="2017-01-10T08:50:08.618-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/check.svg" isHidden="true" locale="pt_BR" title="check"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/footer-bg.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="footer-bg.png" createdDate="2017-01-10T08:50:09.643-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/footer-bg.png" isHidden="true" locale="pt_BR" title="footer-bg"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/header-bg.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="header-bg.png" createdDate="2017-01-10T08:50:10.474-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/header-bg.png" isHidden="true" locale="pt_BR" title="header-bg"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/logo-caixa.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="logo-caixa.png" createdDate="2017-01-10T08:56:44.479-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/logo-caixa.png" isHidden="true" locale="pt_BR" title="logo-caixa"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/pentaho-logo.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="pentaho-logo.png" createdDate="2017-01-10T08:50:11.418-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/pentaho-logo.png" isHidden="true" locale="pt_BR" title="pentaho-logo"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/img/pentaho-logo.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="pentaho-logo.svg" createdDate="2017-01-10T08:50:12.256-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/img/pentaho-logo.svg" isHidden="true" locale="pt_BR" title="pentaho-logo"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js">
+        <ExportManifestProperty>
+            <EntityMetaData name="js" createdDate="2017-01-10T08:50:12.958-02:00" isFolder="true" path="SIALG/CTools_dashboard_files/js" isHidden="false" locale="pt_BR" title="js"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/bubble.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="bubble.js" createdDate="2017-01-10T08:50:13.731-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/bubble.js" isHidden="true" locale="pt_BR" title="bubble"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/bulletChart.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="bulletChart.js" createdDate="2017-01-10T08:50:14.608-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/bulletChart.js" isHidden="true" locale="pt_BR" title="bulletChart"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/cccChart.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="cccChart.js" createdDate="2017-01-10T08:50:15.465-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/cccChart.js" isHidden="true" locale="pt_BR" title="cccChart"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/clippedText.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="clippedText.js" createdDate="2017-01-10T08:50:16.362-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/clippedText.js" isHidden="true" locale="pt_BR" title="clippedText"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/formatted.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="formatted.js" createdDate="2017-01-10T08:50:17.192-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/formatted.js" isHidden="true" locale="pt_BR" title="formatted"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/hyperlink.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="hyperlink.js" createdDate="2017-01-10T08:50:18.066-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/hyperlink.js" isHidden="true" locale="pt_BR" title="hyperlink"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/localizedText.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="localizedText.js" createdDate="2017-01-10T08:50:18.893-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/localizedText.js" isHidden="true" locale="pt_BR" title="localizedText"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/sparkline.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="sparkline.js" createdDate="2017-01-10T08:50:19.759-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/sparkline.js" isHidden="true" locale="pt_BR" title="sparkline"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/steelWheelsSample.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelWheelsSample.js" createdDate="2017-01-10T08:50:20.523-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/steelWheelsSample.js" isHidden="true" locale="pt_BR" title="steelWheelsSample"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/steelwheels.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelwheels.js" createdDate="2017-01-10T08:50:21.359-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/steelwheels.js" isHidden="true" locale="pt_BR" title="steelwheels"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/CTools_dashboard_files/js/trendArrow.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="trendArrow.js" createdDate="2017-01-10T08:50:22.257-02:00" isFolder="false" path="SIALG/CTools_dashboard_files/js/trendArrow.js" isHidden="true" locale="pt_BR" title="trendArrow"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Geral.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="Geral.cda" createdDate="2017-01-10T08:50:23.093-02:00" isFolder="false" path="SIALG/Geral.cda" isHidden="false" locale="pt_BR" title="Geral"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Geral.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="Geral.cdfde" createdDate="2017-01-10T08:50:23.933-02:00" isFolder="false" path="SIALG/Geral.cdfde" isHidden="false" locale="pt_BR" title="Geral"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Geral.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="Geral.wcdf" createdDate="2017-01-10T08:50:24.675-02:00" isFolder="false" path="SIALG/Geral.wcdf" isHidden="false" locale="pt_BR" title="Geral"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Indicadores.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="Indicadores.cda" createdDate="2017-01-10T08:50:25.454-02:00" isFolder="false" path="SIALG/Indicadores.cda" isHidden="false" locale="pt_BR" title="Indicadores"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Indicadores.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="Indicadores.cdfde" createdDate="2017-01-10T08:50:26.286-02:00" isFolder="false" path="SIALG/Indicadores.cdfde" isHidden="false" locale="pt_BR" title="Indicadores"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Indicadores.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="Indicadores.wcdf" createdDate="2017-01-10T08:50:27.108-02:00" isFolder="false" path="SIALG/Indicadores.wcdf" isHidden="false" locale="pt_BR" title="Indicadores"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG.cda" createdDate="2017-01-10T08:50:27.862-02:00" isFolder="false" path="SIALG/SIALG.cda" isHidden="false" locale="pt_BR" title="SIALG"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG.cdfde" createdDate="2017-01-10T08:50:28.646-02:00" isFolder="false" path="SIALG/SIALG.cdfde" isHidden="false" locale="pt_BR" title="SIALG"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG.wcdf" createdDate="2017-01-10T08:50:29.484-02:00" isFolder="false" path="SIALG/SIALG.wcdf" isHidden="false" locale="pt_BR" title="SIALG"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG2.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG2.cda" createdDate="2017-01-10T08:58:08.983-02:00" isFolder="false" path="SIALG/SIALG2.cda" isHidden="false" locale="pt_BR" title="SIALG2"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG2.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG2.cdfde" createdDate="2017-01-10T08:58:32.063-02:00" isFolder="false" path="SIALG/SIALG2.cdfde" isHidden="false" locale="pt_BR" title="SIALG2"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/SIALG2.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="SIALG2.wcdf" createdDate="2017-01-10T08:59:26.702-02:00" isFolder="false" path="SIALG/SIALG2.wcdf" isHidden="false" locale="pt_BR" title="SIALG2"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component">
+        <ExportManifestProperty>
+            <EntityMetaData name="Table+Component" createdDate="2017-01-10T08:50:30.237-02:00" isFolder="true" path="SIALG/Table+Component" isHidden="false" locale="pt_BR" title="Table+Component"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/Table+Component.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="Table+Component.cda" createdDate="2017-01-10T08:50:30.977-02:00" isFolder="false" path="SIALG/Table+Component/Table+Component.cda" isHidden="false" locale="pt_BR" title="Table+Component"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/Table+Component.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="Table+Component.cdfde" createdDate="2017-01-10T08:50:31.826-02:00" isFolder="false" path="SIALG/Table+Component/Table+Component.cdfde" isHidden="false" locale="pt_BR" title="Table+Component"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/Table+Component.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="Table+Component.wcdf" createdDate="2017-01-10T08:50:32.564-02:00" isFolder="false" path="SIALG/Table+Component/Table+Component.wcdf" isHidden="false" locale="pt_BR" title="Table+Component"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources">
+        <ExportManifestProperty>
+            <EntityMetaData name="resources" createdDate="2017-01-10T08:50:33.198-02:00" isFolder="true" path="SIALG/Table+Component/resources" isHidden="false" locale="pt_BR" title="resources"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/css">
+        <ExportManifestProperty>
+            <EntityMetaData name="css" createdDate="2017-01-10T08:50:33.755-02:00" isFolder="true" path="SIALG/Table+Component/resources/css" isHidden="false" locale="pt_BR" title="css"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/css/font-awesome.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.css" createdDate="2017-01-10T08:50:34.423-02:00" isFolder="false" path="SIALG/Table+Component/resources/css/font-awesome.css" isHidden="true" locale="pt_BR" title="font-awesome"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/css/font-awesome.min.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.min.css" createdDate="2017-01-10T08:50:35.221-02:00" isFolder="false" path="SIALG/Table+Component/resources/css/font-awesome.min.css" isHidden="true" locale="pt_BR" title="font-awesome.min"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/css/steelWheelsSample.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelWheelsSample.css" createdDate="2017-01-10T08:50:36.020-02:00" isFolder="false" path="SIALG/Table+Component/resources/css/steelWheelsSample.css" isHidden="true" locale="pt_BR" title="steelWheelsSample"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome-4.7.0" createdDate="2017-01-10T08:50:36.756-02:00" isFolder="true" path="SIALG/Table+Component/resources/font-awesome-4.7.0" isHidden="false" locale="pt_BR" title="font-awesome-4.7.0"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0/css">
+        <ExportManifestProperty>
+            <EntityMetaData name="css" createdDate="2017-01-10T08:50:37.390-02:00" isFolder="true" path="SIALG/Table+Component/resources/font-awesome-4.7.0/css" isHidden="false" locale="pt_BR" title="css"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0/css/font-awesome.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.css" createdDate="2017-01-10T08:50:38.097-02:00" isFolder="false" path="SIALG/Table+Component/resources/font-awesome-4.7.0/css/font-awesome.css" isHidden="true" locale="pt_BR" title="font-awesome"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0/css/font-awesome.min.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="font-awesome.min.css" createdDate="2017-01-10T08:50:38.865-02:00" isFolder="false" path="SIALG/Table+Component/resources/font-awesome-4.7.0/css/font-awesome.min.css" isHidden="true" locale="pt_BR" title="font-awesome.min"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0/fonts">
+        <ExportManifestProperty>
+            <EntityMetaData name="fonts" createdDate="2017-01-10T08:50:39.551-02:00" isFolder="true" path="SIALG/Table+Component/resources/font-awesome-4.7.0/fonts" isHidden="false" locale="pt_BR" title="fonts"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="fontawesome-webfont.svg" createdDate="2017-01-10T08:50:40.314-02:00" isFolder="false" path="SIALG/Table+Component/resources/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" isHidden="true" locale="pt_BR" title="fontawesome-webfont"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/fonts">
+        <ExportManifestProperty>
+            <EntityMetaData name="fonts" createdDate="2017-01-10T08:50:40.981-02:00" isFolder="true" path="SIALG/Table+Component/resources/fonts" isHidden="false" locale="pt_BR" title="fonts"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/fonts/opensans-bold.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="opensans-bold.svg" createdDate="2017-01-10T08:50:41.790-02:00" isFolder="false" path="SIALG/Table+Component/resources/fonts/opensans-bold.svg" isHidden="true" locale="pt_BR" title="opensans-bold"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/fonts/opensans-italic.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="opensans-italic.svg" createdDate="2017-01-10T08:50:42.659-02:00" isFolder="false" path="SIALG/Table+Component/resources/fonts/opensans-italic.svg" isHidden="true" locale="pt_BR" title="opensans-italic"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/fonts/opensans-light.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="opensans-light.svg" createdDate="2017-01-10T08:50:43.503-02:00" isFolder="false" path="SIALG/Table+Component/resources/fonts/opensans-light.svg" isHidden="true" locale="pt_BR" title="opensans-light"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/fonts/opensans-regular.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="opensans-regular.svg" createdDate="2017-01-10T08:50:44.342-02:00" isFolder="false" path="SIALG/Table+Component/resources/fonts/opensans-regular.svg" isHidden="true" locale="pt_BR" title="opensans-regular"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs">
+        <ExportManifestProperty>
+            <EntityMetaData name="imgs" createdDate="2017-01-10T08:50:45.115-02:00" isFolder="true" path="SIALG/Table+Component/resources/imgs" isHidden="false" locale="pt_BR" title="imgs"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs/check.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="check.png" createdDate="2017-01-10T08:50:45.807-02:00" isFolder="false" path="SIALG/Table+Component/resources/imgs/check.png" isHidden="true" locale="pt_BR" title="check"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs/footer-bg.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="footer-bg.png" createdDate="2017-01-10T08:50:46.665-02:00" isFolder="false" path="SIALG/Table+Component/resources/imgs/footer-bg.png" isHidden="true" locale="pt_BR" title="footer-bg"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs/header-bg.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="header-bg.png" createdDate="2017-01-10T08:50:47.448-02:00" isFolder="false" path="SIALG/Table+Component/resources/imgs/header-bg.png" isHidden="true" locale="pt_BR" title="header-bg"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs/pentaho-logo.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="pentaho-logo.png" createdDate="2017-01-10T08:50:48.201-02:00" isFolder="false" path="SIALG/Table+Component/resources/imgs/pentaho-logo.png" isHidden="true" locale="pt_BR" title="pentaho-logo"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/imgs/selector-arrow.svg">
+        <ExportManifestProperty>
+            <EntityMetaData name="selector-arrow.svg" createdDate="2017-01-10T08:50:48.978-02:00" isFolder="false" path="SIALG/Table+Component/resources/imgs/selector-arrow.svg" isHidden="true" locale="pt_BR" title="selector-arrow"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/js">
+        <ExportManifestProperty>
+            <EntityMetaData name="js" createdDate="2017-01-10T08:50:49.634-02:00" isFolder="true" path="SIALG/Table+Component/resources/js" isHidden="false" locale="pt_BR" title="js"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/Table+Component/resources/js/steelWheelsSample.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="steelWheelsSample.js" createdDate="2017-01-10T08:50:50.324-02:00" isFolder="false" path="SIALG/Table+Component/resources/js/steelWheelsSample.js" isHidden="true" locale="pt_BR" title="steelWheelsSample"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/TemplateUseAddin.cda">
+        <ExportManifestProperty>
+            <EntityMetaData name="TemplateUseAddin.cda" createdDate="2017-01-10T08:50:51.268-02:00" isFolder="false" path="SIALG/TemplateUseAddin.cda" isHidden="false" locale="pt_BR" title="TemplateUseAddin"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/TemplateUseAddin.cdfde">
+        <ExportManifestProperty>
+            <EntityMetaData name="TemplateUseAddin.cdfde" createdDate="2017-01-10T08:50:52.054-02:00" isFolder="false" path="SIALG/TemplateUseAddin.cdfde" isHidden="false" locale="pt_BR" title="TemplateUseAddin"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/TemplateUseAddin.wcdf">
+        <ExportManifestProperty>
+            <EntityMetaData name="TemplateUseAddin.wcdf" createdDate="2017-01-10T08:50:52.956-02:00" isFolder="false" path="SIALG/TemplateUseAddin.wcdf" isHidden="false" locale="pt_BR" title="TemplateUseAddin"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/css">
+        <ExportManifestProperty>
+            <EntityMetaData name="css" createdDate="2017-01-10T08:50:53.740-02:00" isFolder="true" path="SIALG/css" isHidden="false" locale="pt_BR" title="css"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/css/bootstrap-caixa.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="bootstrap-caixa.css" createdDate="2017-01-10T08:56:18.602-02:00" isFolder="false" path="SIALG/css/bootstrap-caixa.css" isHidden="true" locale="pt_BR" title="bootstrap-caixa"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/css/materialize.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="materialize.css" createdDate="2017-01-10T08:50:54.409-02:00" isFolder="false" path="SIALG/css/materialize.css" isHidden="true" locale="pt_BR" title="materialize"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/jquery.knob.min.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="jquery.knob.min.js" createdDate="2017-01-10T08:50:55.243-02:00" isFolder="false" path="SIALG/jquery.knob.min.js" isHidden="true" locale="pt_BR" title="jquery.knob.min"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/js">
+        <ExportManifestProperty>
+            <EntityMetaData name="js" createdDate="2017-01-10T08:50:55.913-02:00" isFolder="true" path="SIALG/js" isHidden="false" locale="pt_BR" title="js"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/js/OncaseUtils.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="OncaseUtils.js" createdDate="2017-01-10T08:50:56.667-02:00" isFolder="false" path="SIALG/js/OncaseUtils.js" isHidden="true" locale="pt_BR" title="OncaseUtils"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/js/materialize.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="materialize.js" createdDate="2017-01-10T08:50:57.432-02:00" isFolder="false" path="SIALG/js/materialize.js" isHidden="true" locale="pt_BR" title="materialize"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/js/sialgjs.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="sialgjs.js" createdDate="2017-01-10T08:50:58.159-02:00" isFolder="false" path="SIALG/js/sialgjs.js" isHidden="true" locale="pt_BR" title="sialgjs"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/mdx">
+        <ExportManifestProperty>
+            <EntityMetaData name="mdx" createdDate="2017-01-10T08:50:58.846-02:00" isFolder="true" path="SIALG/mdx" isHidden="false" locale="pt_BR" title="mdx"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/medal-bronze.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="medal-bronze.png" createdDate="2017-01-10T08:50:59.475-02:00" isFolder="false" path="SIALG/medal-bronze.png" isHidden="true" locale="pt_BR" title="medal-bronze"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/medal-cobre.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="medal-cobre.png" createdDate="2017-01-10T08:51:00.259-02:00" isFolder="false" path="SIALG/medal-cobre.png" isHidden="true" locale="pt_BR" title="medal-cobre"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/medal-diamante.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="medal-diamante.png" createdDate="2017-01-10T08:51:01.267-02:00" isFolder="false" path="SIALG/medal-diamante.png" isHidden="true" locale="pt_BR" title="medal-diamante"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/medal-ouro.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="medal-ouro.png" createdDate="2017-01-10T08:51:02.026-02:00" isFolder="false" path="SIALG/medal-ouro.png" isHidden="true" locale="pt_BR" title="medal-ouro"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/medal-prata.png">
+        <ExportManifestProperty>
+            <EntityMetaData name="medal-prata.png" createdDate="2017-01-10T08:51:02.766-02:00" isFolder="false" path="SIALG/medal-prata.png" isHidden="true" locale="pt_BR" title="medal-prata"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/stupidtable.js">
+        <ExportManifestProperty>
+            <EntityMetaData name="stupidtable.js" createdDate="2017-01-10T08:51:03.579-02:00" isFolder="false" path="SIALG/stupidtable.js" isHidden="true" locale="pt_BR" title="stupidtable"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+    <ExportManifestEntity path="SIALG/style.css">
+        <ExportManifestProperty>
+            <EntityMetaData name="style.css" createdDate="2017-01-10T08:51:04.275-02:00" isFolder="false" path="SIALG/style.css" isHidden="true" locale="pt_BR" title="style"/>
+        </ExportManifestProperty>
+        <ExportManifestProperty>
+            <EntityAcl>
+                <entriesInheriting>true</entriesInheriting>
+                <owner>c058512</owner>
+                <ownerType>USER</ownerType>
+            </EntityAcl>
+        </ExportManifestProperty>
+    </ExportManifestEntity>
+</ns2:ExportManifest>

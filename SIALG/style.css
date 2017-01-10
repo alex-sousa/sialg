@@ -1,6 +1,7 @@
 body{font-family: 'Open Sans', sans-serif!important;font-weight:300;}
 .row{margin-bottom:0px!important;}
-input {margin-bottom: 0px!important;}
+table input {height: 1rem!important;}
+th{padding-top:5px!important;padding-bottom:5px!important;}
 #indicadores{text-align:center;}
 .container {
     width: auto;
@@ -21,6 +22,12 @@ legend{margin-bottom:0px;}
 input{text-align:center;}
 
 .hide{display:none;}
+/** Tabela **/
+#tabelaIndicadores{border: 1px solid #000;}
+#tabelaIndicadores td, th{border-left: 1px solid #000;}
+#tabelaIndicadores input{border:none;margin-bottom:0px;font-size:0.8em;}
+#tabelaIndicadores tr{border-bottom:1px solid #000;}
+#tabelaIndicadores td, th{font-size:0.9em; padding-top:3px;padding-bottom:3px;}
 /* ================= Cores ================*/
 .diamante{background:#b9f2ff;}
 .ouro{background:#FFEE6F;}

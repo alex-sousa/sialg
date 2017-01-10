@@ -19,6 +19,7 @@
       </Connection>
    </DataSources>
    <DataAccess access="public" connection="contratoDS" id="contratoDS" type="sql">
+      <Name>contratoDS</Name>
       <Cache duration="3600" enabled="true"/>
       <Columns/>
       <Parameters/>
@@ -33,6 +34,7 @@
   ORDER BY data."NU_ANO"]]></Query>
    </DataAccess>
    <DataAccess access="public" connection="demandasDS" id="demandasDS" type="sql">
+      <Name>demandasDS</Name>
       <Cache duration="3600" enabled="true"/>
       <Columns/>
       <Parameters/>
@@ -47,6 +49,7 @@
   ORDER BY status."NO_STATUS"]]></Query>
    </DataAccess>
    <DataAccess access="public" connection="contratoGNDS" id="contratoGNDS" type="sql">
+      <Name>contratoGNDS</Name>
       <Cache duration="3600" enabled="true"/>
       <Columns/>
       <Parameters/>
@@ -59,6 +62,7 @@
   ORDER BY unidades."SG_GEC"]]></Query>
    </DataAccess>
    <DataAccess access="public" connection="realizeDS" id="realizeDS" type="sql">
+      <Name>realizeDS</Name>
       <Cache duration="3600" enabled="true"/>
       <Columns/>
       <Parameters/>
@@ -73,6 +77,7 @@
   ORDER BY DATA."NU_MES"]]></Query>
    </DataAccess>
    <DataAccess access="public" connection="indicadoresDS" id="indicadoresDS" type="mdx">
+      <Name>indicadoresDS</Name>
       <BandedMode>compact</BandedMode>
       <Cache duration="3600" enabled="true"/>
       <Columns/>
@@ -81,13 +86,11 @@
          <Parameter default="" name="dataFim" type="String"/>
       </Parameters>
       <Query><![CDATA[WITH
-MEMBER [Measures].[Nota Final] as 'IIF(  [Measures].[Implantadas (Planejado Para)]>0   ,IIF(   [Measures].[Priorizadas Implantadas]/[Measures].[Implantadas (Planejado Para)]>2*0.8    ,0.8     ,[Measures].[Priorizadas Implantadas]/[Measures].[Implantadas (Planejado Para)]   )   ,0  )/(0.80*0.65*2) + IIF(  [Measures].[Priorizadas]>0   ,IIF(   [Measures].[Priorizadas Implantadas]/[Measures].[Priorizadas]>2*0.7    ,0.7     ,[Measures].[Priorizadas Implantadas]/[Measures].[Priorizadas]   )   ,0  )/(0.70*0.35*2) + IIF(  [Measures].[Planejadas]>0   ,IIF(   [Measures].[Planejadas e Implantadas no Prazo]/[Measures].[Planejadas]>2*0.8    ,0.8     ,[Measures].[Planejadas e Implantadas no Prazo]/[Measures].[Planejadas]   )   ,0  )/(0.80*0.6*2.5) + IIF(  [Measures].[Planejadas e Implantadas]>0   ,IIF(   [Measures].[Replanejadas e Implantadas]/[Measures].[Planejadas e Implantadas]>2*0.8    ,0.8     ,[Measures].[Replanejadas e Implantadas]/[Measures].[Planejadas e Implantadas]   )   ,0  )/(0.80*0.4*2.5) + IIF(  [Measures].[Criadas no Periodo]>0   ,IIF(   [Measures].[Implantadas]/[Measures].[Criadas no Periodo]>2*1.05    ,1.05    ,[Measures].[Implantadas]/[Measures].[Criadas no Periodo]   )   ,0  )/(1.05*1*1.5) + IIF(  [Measures].[Qt. Pontos de Funcao SUCTI]>0   ,IIF(   [Measures].[Qt. Pontos Funcao de DMS ou DNS Implantadas]/[Measures].[Qt. Pontos de Funcao SUCTI]>2*0.05    ,0.05     ,[Measures].[Qt. Pontos Funcao de DMS ou DNS Implantadas]/[Measures].[Qt. Pontos de Funcao SUCTI]   )   ,0  )/(0.05*0.65*2) + IIF(  [Measures].[Qt. Pontos de Funcao SUCTI]>0   ,IIF(   [Measures].[Qt. PF por Empregado]/[Measures].[Qt. Pontos de Funcao SUCTI]>2*0.01    ,0.01     ,[Measures].[Qt. PF por Empregado]/[Measures].[Qt. Pontos de Funcao SUCTI]   )   ,0  )/(0.01*0.35*2) + IIF(  [Measures].[DMS DNS STE Defeito Criados]>0   ,IIF(   [Measures].[DMS DNS STE Criados]/[Measures].[DMS DNS STE Defeito Criados]>2*0.8    ,0.8     ,[Measures].[DMS DNS STE Criados]/[Measures].[DMS DNS STE Defeito Criados]   )   ,0  )/(0.8*0.6*2) + IIF(  [Measures].[Defeito Criado em PRD]>0   ,IIF(   [Measures].[Qt. Pontos Funcao de DMS ou DNS Implantadas]/[Measures].[Defeito Criado em PRD]>2*1.3    ,1.3     ,[Measures].[Qt. PontosunÃ§Ã£o de DMS ou DNS Implantadas]/[Measures].[Defeito Criado em PRD]   )   ,0  )/(1.3*0.4*2)'
-set [Rows] as FILTER(
-[Organizacao.Gestao da Demanda].[SUCTI].children
-, [Measures].[Nota Final] > 0 )
+SET [~ROWS] AS {[Organizacao.Gestao da Demanda].[SUCTI].[GEABR],[Organizacao.Gestao da Demanda].[SUCTI].[GEARJ],[Organizacao.Gestao da Demanda].[SUCTI].[GEASP]}
+MEMBER [Organizacao.Gestao da Demanda].[SUCTI].[SUCTI] AS AVG([Measures].[Índice - Nota Final])
 SELECT
-NON EMPTY {[Measures].[Nota Final]} ON COLUMNS,
-NON EMPTY {[Rows]} ON ROWS
+NON EMPTY {[Measures].[Índice - Nota Final]} ON COLUMNS,
+NON EMPTY {[Organizacao.Gestao da Demanda].[SUCTI].[SUCTI],[~ROWS]} ON ROWS
 FROM [SIALG - Demandas]]]></Query>
    </DataAccess>
 </CDADescriptor>
